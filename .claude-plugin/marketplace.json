@@ -1,0 +1,16 @@
+{
+  "name": "droid-doctor",
+  "owner": {
+    "name": "droid-doctor contributors"
+  },
+  "metadata": {
+    "description": "Android app QA tools for Claude Code: crash/ANR testing, theme and layout checks, multi-device screenshots."
+  },
+  "plugins": [
+    {
+      "name": "droid-doctor",
+      "source": "./",
+      "description": "QA tester for Android apps: crashes, ANRs, theme/font mismatches, status/nav bar, edge-to-edge and multi-device layout issues."
+    }
+  ]
+}

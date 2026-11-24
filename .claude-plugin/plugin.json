@@ -1,0 +1,10 @@
+{
+  "name": "droid-doctor",
+  "version": "0.3.0",
+  "description": "QA tester for Android apps: taps every button to find crashes and ANRs, tests rotation, ads placement, theme colors, fonts, status/navigation bars, edge-to-edge, dark mode, big font, offline and different screen sizes, fixes ad units with show rate below 70% from your AdMob report and Crashlytics crashes/ANRs, then fixes the issues it finds. Works with XML and Jetpack Compose, using adb.",
+  "author": {
+    "name": "droid-doctor contributors"
+  },
+  "license": "MIT",
+  "keywords": ["android", "qa", "testing", "compose", "adb", "anr", "crash", "ui", "layout", "edge-to-edge", "admob", "orientation", "show-rate", "crashlytics", "firebase"]
+}
